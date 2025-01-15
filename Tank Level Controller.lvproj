@@ -99,7 +99,10 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Deactivate Pumps.vi" Type="VI" URL="../Deactivate Pumps.vi"/>
 			<Item Name="lvsound2.dll" Type="Document" URL="/&lt;resource&gt;/lvsound2.dll"/>
+			<Item Name="Poll Pumps.vi" Type="VI" URL="../Poll Pumps.vi"/>
+			<Item Name="Timer.vi" Type="VI" URL="../Timer.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
